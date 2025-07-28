@@ -15,7 +15,7 @@ Outside of coding, I love hiking, exploring new places, and connecting with peop
 
 **Databases:** SQL, MySQL
 
-**Development Tools:** Jupyter Notebooks, Google Colab
+**Development Tools:** Jupyter Notebooks, Google Colab, VS Code
 
 **Version Control:** Git, GitHub
 <!--
