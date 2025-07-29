@@ -9,7 +9,7 @@ Outside of coding, I love hiking, exploring new places, and connecting with peop
 
 # 🛠 Tech Stack:
 
-**Programming Languages:** Python, Java, C++, HTML, CSS, JavaScript 
+**Programming Languages:** Python, Java, C/C++, HTML, CSS, JavaScript 
 
 **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib, spaCy, Node.js 
 
