@@ -7,6 +7,7 @@ Raised in NYC, I grew up surrounded by diversity and innovation, which shaped my
 Outside of coding, I love hiking, exploring new places, and connecting with people who care about building a more inclusive and sustainable future through technology.
 
 
+# 🛠 Tech Stack:
 **Programming Languages:** Java, C/C++, Python, SQL, JavaScript, TypeScript, HTML, CSS
 
 **Libraries & Frameworks:** Spring Boot, TensorFlow, scikit-learn, React.js
