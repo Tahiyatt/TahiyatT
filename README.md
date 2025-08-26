@@ -7,19 +7,26 @@ Raised in NYC, I grew up surrounded by diversity and innovation, which shaped my
 Outside of coding, I love hiking, exploring new places, and connecting with people who care about building a more inclusive and sustainable future through technology.
 
 
-# 🛠 Tech Stack:
+### Technical Skills
 
-**Programming Languages:** Python, Java, C/C++, HTML, CSS, JavaScript 
+**Languages:**  
+Java, C/C++, Python, SQL, JavaScript, TypeScript, HTML/CSS
 
-**Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib, spaCy, Node.js 
+**Frameworks & Libraries:**  
+Spring Boot, TensorFlow, scikit-learn, React.js
 
-**Databases:** SQL, MySQL
+**Developer Tools:**  
+Git/GitHub, Android Studio, Fusion 360, Bambu Studio
 
-**Development Tools:** Jupyter Notebooks, Google Colab, VS Code
+**Operating Systems:**  
+macOS, Windows, Linux
 
-**Version Control:** Git, GitHub
+**Databases:**  
+SQLite, SQL
 
-# 🚧 Currently in the middle of revamping my Github profolio 🚧
+**Other Interests:**  
+Machine Learning, Computer Vision, Natural Language Processing (NLP), Ethical AI, Robotics, 3D Printing, Embedded Systems, UX/UI Design, Arduino
+
 <!--
 **Tahiyatt/TahiyatT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
