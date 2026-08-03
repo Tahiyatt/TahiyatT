@@ -1,6 +1,5 @@
 # Hi there 
 
-[![Tahiyat's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahiyatt)](https://github.com/tahiyatt/github-readme-stats)
 
 
 # 🛠 Tech Stack:
