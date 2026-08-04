@@ -1,3 +1,5 @@
+
+<!--
 # Hi there 
 
 
@@ -17,6 +19,7 @@
 
 **Other Interests:** Machine Learning, Computer Vision, Natural Language Processing (NLP), Ethical AI, Robotics, 3D Printing, Embedded Systems, UX/UI Design, Arduino
 
+--!>
 
 <!--
 **Tahiyatt/TahiyatT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
